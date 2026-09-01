@@ -243,7 +243,7 @@ The dashboard provides a consolidated view of the major findings from the explor
 
 ### Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](screenshots/dashboard.png)
+![E-Commerce Sales Analysis Dashboard](Screenshots/dashboard.png)
 
 ---
 
@@ -256,5 +256,5 @@ ecommerce-sales-analysis-eda/
 │
 ├── README.md
 │
-└── screenshots/
+└── Screenshots/
     └── dashboard.png
